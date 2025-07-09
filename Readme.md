@@ -143,5 +143,3 @@ Yes! It's perfect for networking, audio, and Java projects.
 💻 GitHub: [Satyam6201](https://github.com/Satyam6201)
 
 ---
-
-> 💡 *Star this project if you find it helpful or use it in your own games!*
