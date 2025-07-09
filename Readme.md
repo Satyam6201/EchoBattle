@@ -1,4 +1,3 @@
-// === README.md ===
 # 🎮 EchoBattle: Multiplayer Java Game with Voice & Emoji Chat
 
 > A real-time multiplayer Java game that blends classic turn-based gameplay with voice chat, emoji messaging, and persistent leaderboard support — all powered by Java Sockets and Java Sound API.
