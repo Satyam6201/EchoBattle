@@ -1,12 +1,4 @@
 
-## 💡 Ideal For
-- Java Networking Mini Projects
-- Final Year BTech Demonstrations
-- Internship Showcases (Full Java Only)
-- College Game Jams & Experiments
-
----
-
-## 📧 Author
+## 💡 Ideal Foror
 **Satyam Kumar Mishra**  
 Built with ❤️ using pure Java.
