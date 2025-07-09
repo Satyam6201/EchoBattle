@@ -141,7 +141,7 @@ Yes! It's perfect for networking, audio, and Java projects.
 > Passionate about building real-time multiplayer systems and creative Java-based projects.
 
 📍 India  
-🌐 [LinkedIn](https://www.linkedin.com/in/satyam-kumar-mishra-9bb980291/)  
+🌐 [Satyam Kumar Mishra](https://www.linkedin.com/in/satyam-kumar-mishra-9bb980291/)  
 💻 GitHub: [Satyam6201](https://github.com/Satyam6201)
 
 ---
